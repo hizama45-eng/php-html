@@ -1,0 +1,8 @@
+<hr>
+
+<footer>
+    <small>&copy; 2025</small>
+</footer>
+
+</body>
+</html>
